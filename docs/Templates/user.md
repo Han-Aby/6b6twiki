@@ -1,33 +1,29 @@
----
-sidebar_position: 1
-sidebar_label: 'User template'
-title: 'User template'
-tags:
-  - Getting started
-  - Contributing
----
-
-**NOTE:** user01xdlol is not a real person
-
 ## Identity
-* Formal name: user01XDlol
-* Mainly goes by: user
-* Discord: `user01xdlol.`
-* [YouTube](https://www.youtube.com/)
-* [NameMC](https://namemc.com/)
+* Formal name: NoMouseGang
+* Mainly goes by: Hanaby // Implexium
+* Discord: `.h.a.n.a.b.y.`
+* [YouTube](https://www.youtube.com/@Hanaby)
 
 ## Joindate
-* 6b6t: insert joindate here
-* other servers: insert joindate here if the user played other anarchy servers
+* 6b6t: Nomousegang: Dec 2023 // Hanaby: Nov 2023
+
 
 ## Acomplishments
-- Built highway called interstate 01
-- Griefed bot01's megabase *(With optional link to megabase)*
+- Insided around 15-20 teams [Both major and not]
+- Griefed a total of 95 thousent dubs [across 5 accounts and almost 15 teams]
+- Nuked 4 Team discords [2 Major 2 Unknown]
+- Doxxed 2 old fags
 
 ## Skin
-(skin from namemc, format: `![Skin](skin PNG url)`)
+![image](https://github.com/user-attachments/assets/17f02013-7dcf-4193-b140-3ceb6bc7f8a5)
+
 
 ## Clans
-- usee clan
-- example clan
-- etc.
+- Current: None
+- Former: Trinity
+- Former: The 6b6t Fifth Collumn
+- Former: Tesseract [Both the real and re-formation]
+- Mischieff
+- Raiders
+- Shurroku Shop [Old fag shop]
+  
